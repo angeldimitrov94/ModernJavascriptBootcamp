@@ -1,4 +1,4 @@
-# E-Commerce Website
+# JavaScript EggTimer
 
 An example project of an extremely simple timer app, built solely in Javascript
 This project is meant to be run in a browser
